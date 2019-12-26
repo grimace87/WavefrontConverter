@@ -1,0 +1,8 @@
+
+# IDEs
+.idea/
+.vs/
+
+# Build output
+cmake-build-debug/
+build/
